@@ -14,7 +14,7 @@ click on saved articles button ![saved ](/public/images/saved.gif "scrape app") 
 you can delete an article or add a comment. click on the relevent button for the action.
 
 the app displays the below.
-![saved ](/public/images/addcomment.gif "scrape app")
+![saved ](/public/images/addComment.gif "scrape app")
 
 enter your name and comment. click Save Note. the comment window will close.
 
